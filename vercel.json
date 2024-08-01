@@ -13,7 +13,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://your.url.from.vercel.app",
+        "APP_URL": "https://harsh-test-laravel.vercel.app",
         "APP_KEY": "2454325fset",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
